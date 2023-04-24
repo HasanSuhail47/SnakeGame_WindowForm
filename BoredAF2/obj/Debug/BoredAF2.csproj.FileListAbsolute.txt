@@ -1,0 +1,11 @@
+C:\Users\Home PC\source\repos\BoredAF2\BoredAF2\bin\Debug\BoredAF2.exe.config
+C:\Users\Home PC\source\repos\BoredAF2\BoredAF2\bin\Debug\BoredAF2.exe
+C:\Users\Home PC\source\repos\BoredAF2\BoredAF2\bin\Debug\BoredAF2.pdb
+C:\Users\Home PC\source\repos\BoredAF2\BoredAF2\obj\Debug\BoredAF2.csproj.AssemblyReference.cache
+C:\Users\Home PC\source\repos\BoredAF2\BoredAF2\obj\Debug\BoredAF2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Home PC\source\repos\BoredAF2\BoredAF2\obj\Debug\BoredAF2.Form1.resources
+C:\Users\Home PC\source\repos\BoredAF2\BoredAF2\obj\Debug\BoredAF2.Properties.Resources.resources
+C:\Users\Home PC\source\repos\BoredAF2\BoredAF2\obj\Debug\BoredAF2.csproj.GenerateResource.cache
+C:\Users\Home PC\source\repos\BoredAF2\BoredAF2\obj\Debug\BoredAF2.csproj.CoreCompileInputs.cache
+C:\Users\Home PC\source\repos\BoredAF2\BoredAF2\obj\Debug\BoredAF2.exe
+C:\Users\Home PC\source\repos\BoredAF2\BoredAF2\obj\Debug\BoredAF2.pdb
